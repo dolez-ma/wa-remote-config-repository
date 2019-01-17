@@ -1,0 +1,19 @@
+server:
+  port: '{cipher}fab06703c764452454e73568dfd58040a838789b255f6aa5964790623c71c47b'
+
+spring:
+  datasource:
+    url: '{cipher}bade81d32a7ec44d4eb0f0561bdc5afdcca0fa2a65473885f8ab2a550df5d01f588e4062c8831e6ab506ea0ae71553d34800be6b1da832bbec34d14201254edb'
+    username: '{cipher}dbe76ffb15e4ec8d5b9cf839dcff2bba060d9eb8c0fa336f57169bb02fca005d'
+    password: '{cipher}872988c97afcff7c42eb38ce8f9c9ac2f36d75756a5d05e3632f4b9f9d437d17'
+    tomcat.max-wait: '{cipher}d7948c9c09742fdb9034c485a597ac3faf6d56fd9409aded52dfa5b790b7e068'
+    tomcat.max-active: '{cipher}a0aa57c33395f9811ec45238e816e698e9e85dd485cf029c928e69142f94aa21'
+    tomcat.max-idle: '{cipher}75c58b3fe4cb00ac835434785fd52928c3aa7ab26f4fd3f8f0fe0dd47362c38c'
+    tomcat.min-idle: '{cipher}1521c1dfb88f2ced54373b27c25e16165c5c71fb8b5e94923f629bda6d3567cc'
+    validationQuery: '{cipher}9fd9ef3a7bce44e72788617977c70d0d99757597fb49f0eb64faf435f99533ec'
+  jpa:
+    properties:
+      hibernate:
+        dialect: '{cipher}1d30e2a27d51bcaadccb4521b4d3a29b8ce554e02c2544bed42db4b64be992a5eccf1a74404322a0b46b02e791f481ca92aa1b153eb4945fca2ba5641b064ebd'
+  hibernate:
+    ddl-auto: '{cipher}cdff036011839925ab62269cfde225df2239b445ba79d0d4657d11aa4a0bbddb'
